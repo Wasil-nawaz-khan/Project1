@@ -1,0 +1,114 @@
+nav{
+  padding: 20px;
+  background-color: yellowgreen;
+ text-align: center;
+}
+
+nav button{
+  padding: 10px;
+  margin-left: 20px;
+  border-radius: 10px;
+  border: 2px solid red;
+  font-size: 20px;
+  align-items: center;
+}
+
+nav span{
+  font-size: 22px;
+  font-weight: 900;
+  text-decoration: underline 5px solid white;
+  font-style: italic;
+  }
+
+
+
+nav button{
+  display: center;
+  justify-content: center;
+  
+}
+
+#about{
+  text-align: center;
+  max-width: 70%;
+  margin: auto;
+  padding: 30px;
+}
+
+
+
+
+.loginn{
+  text-align: center;
+  padding: 30px;
+  border: 3px solid black;
+  margin-top: 30px;
+  max-width: 40%;
+  margin-left: 30%;
+  padding: 20px;
+  border-radius: 20px;
+
+}
+
+form{
+  border-radius: 20px;
+  border: 3px solid red;
+  box-shadow: 0px 0px 10px gray;
+  padding: 20px;
+}
+
+form input{
+  padding: 5px;
+  border-radius: 10px;
+}
+
+form button{
+  padding: 10px;
+  background-color: white;
+  border: 3px solid red;
+  border-radius: 10px;
+}
+
+.pics img{
+  border-radius: 50%;
+  padding: 20px;
+  margin: 30px;
+  max-width: 70%;
+}
+
+.pics p{
+  text-align: center;
+  text-decoration-line: underline;
+  font-style: italic;
+  margin-left: auto;
+
+}
+
+
+#cont{
+  text-align: center;
+  border: 15px solid #a39513;
+  margin-top: 50px;
+  box-shadow: 0px 0px 30px green ;
+  padding: 30px;
+  border-radius: 25px;
+  max-width: 17%;
+  margin-left: 40%;
+  
+  
+}
+
+#cont :hover{
+  color: rgb(36, 14, 235);
+  background-color: rgb(236, 137, 23);
+  border-radius: 20px;
+  transition: 0.6s ease-in-out;
+}
+
+footer{
+  background-color: black;
+  text-align: center;
+  color: white;
+  margin-top: 20px;
+}
+
